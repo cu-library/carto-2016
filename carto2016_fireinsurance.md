@@ -1,17 +1,18 @@
 <div align="Center">
-## Update and discussion on Copyright for Cartographic Materials documents
+## Making LAC fire insurance plans more easily accessible
 <br>
 
-by Joel Rivard
+by Rebecca Bartlett & Joel Rivard
 
+Rebecca.bartlett@carleton.ca
 joel.rivard@carleton.ca
 
 ---
 ##Outline
 
- - Introduction to the task force
- - Overview and preview of the guidelines
- - Feedback and discussion
+ - Introduction to the problem
+ - Our amazing (yet, time-consuming) solution!!!
+ - Moving forward and discussion
 
 ---
 
@@ -75,22 +76,10 @@ http://joelrivard.github.io/presentations/CartographicGuidelines.pdf
 
 ---
 
-# Feedback and discussion
+#Feedback and discussion
 
 http://bit.ly/1O5p6tH
 
 Joel Rivard
 
 joel.rivard@carleton.ca
----
-## Images Source
-
-- copyright.jpg: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/2000px-Copyright.svg.png
-<br>
-- hands-up.jpg: http://pts4chg.ca/wp-content/uploads/2016/04/Call-for-participants.jpg
-<br>
-- email.jpg: https://www.jisc.ac.uk/sites/default/files/call-for-participants_0.jpg
-<br>
-- participants.jpg: http://ss-glina.skole.hr/upload/ss-glina/images/newsimg/1011/Image/4i9rXGxiE.jpeg
-<br>
-- scanner.jpg:my own picture
