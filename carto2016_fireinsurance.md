@@ -29,10 +29,11 @@ Carleton University Library
 
 ---
 ## Introduction to the problem
-Finding FIP's through LAC's website is:
-  - slow
+Finding FIP's through LAC's website is
+
+  - Slow
   - Incorrect
-  - time-consuming
+  - Time-consuming
 ---
 
 ## Solution
@@ -43,7 +44,7 @@ Create a better index for the FIP collection
 
 ## Collection
 
-We choose the<br<br> **Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901**
+We choose the <br<br> **Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901**
 <br><br>
 It included 114 sheets on LAC's website
 
