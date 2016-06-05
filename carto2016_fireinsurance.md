@@ -1,6 +1,5 @@
 <div align="Center">
 ## Making LAC fire insurance plans more easily accessible
-<br>
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/cover.jpg "Cover")<br>
 by Rebecca Bartlett & Joel Rivard
 
