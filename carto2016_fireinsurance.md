@@ -19,10 +19,10 @@ Carleton University Library
 ---
 ![Frustrated](http://cu-library.github.io/carto-2016/images/frustrated.jpg "Frustrated")
 
---
+---
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/lac_searchresults.jpg "Searching")
 
---
+---
 
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/lac_search.jpg "Search")
 
@@ -43,7 +43,11 @@ Create a better index for the FIP collection
 
 ## Collection
 
-We choose the <br<br> **Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901**
+We choose the
+<br<br>
+
+**Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901**
+
 <br><br>
 It included 114 sheets on LAC's website
 
@@ -53,6 +57,7 @@ It included 114 sheets on LAC's website
 - Georeference the FIP plans (keymap not accurate)
 - This will give us our index + the georeferenced plans
 <br><br>
+
 Win Win Situation!! (**image**)
 
 ---
