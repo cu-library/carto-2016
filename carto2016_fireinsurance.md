@@ -31,7 +31,7 @@ Carleton University Library
 Finding FIP's through LAC's website is
 
   - Slow
-  - Incorrect
+  - At times, inaccurate
   - Time-consuming
 ---
 
@@ -49,7 +49,7 @@ We choose the
 **Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901**
 
 <br><br>
-It included 114 sheets on LAC's website
+It included 113 sheets on LAC's website
 
 ---
 ## Methodology
@@ -84,7 +84,7 @@ We needed to split these up
 ---
 ## Methodology
 
-12 sheets that weren't maps (keymaps or street index)
+11 sheets that weren't maps (keymaps or street index)
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/keymap_sheet.jpg "FIP keymap")
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/index_sheet.jpg "FIP Index")
 
@@ -96,7 +96,13 @@ We needed to split these up
 
 ---
 
-## Methodology
+## Creating the Index
 - Once the fire insurance plans were georeferenced, we created the index (**mention the tool**)
 - For each area, added a link to that particular sheet on LAC's website
 - Used ArcGIS Online for the index
+
+---
+
+## Next Step
+  - Allow users to download the georeferenced images (Copyright Issues)
+  - Tackle another year or another geographic area for FIP
