@@ -19,6 +19,7 @@ Carleton University Library
 ---
 ![Frustrated](http://cu-library.github.io/carto-2016/images/frustrated.jpg "Frustrated")
 
+Source: https://c2.staticflickr.com/4/3451/3986997574_5aa55585a4.jpg
 ---
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/lac_searchresults.jpg "Searching")
 
@@ -43,6 +44,7 @@ Ryder to the rescue!!
 
 ![Ryder superhero](http://cu-library.github.io/carto-2016/images/superhero.jpg "Superhero")
 
+source: https://pixabay.com/static/uploads/photo/2012/04/24/21/21/superhero-40908_960_720.png
 ---
 
 ## Collection
