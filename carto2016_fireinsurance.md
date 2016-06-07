@@ -37,7 +37,10 @@ Finding FIP's through LAC's website is
 
 ## Solution
 
-Create a better index for the FIP collection
+Create interactive index for the FIP collection
+Ryder to the rescue!!
+
+![Ryder superhero](http://cu-library.github.io/carto-2016/images/superhero.jpg "Superhero")
 
 ---
 
