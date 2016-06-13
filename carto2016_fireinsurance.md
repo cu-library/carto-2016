@@ -43,7 +43,7 @@ Finding FIPs through LAC's website is
 We choose the
 <br<br>
 
-**[Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901](http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&lang=eng&rec_nbr=3816143&rec_nbr_list=2133082,2132980,3816143,3816060,3827541,3827543,3827534,3824226,3816030,3827571&title=Insurance+plan+of+the+city+of+Ottawa%2C+Canada%2C+and+adjoining+suburbs+and+lumber+districts%2C+January+1888%2C+revised+January+1901.+&ecopy=e010689183-v8&back_url=())**
+**[Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901](http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&lang=eng&rec_nbr=3816143&rec_nbr_list=2133082,2132980,3816143,3816060,3827541,3827543,3827534,3824226,3816030,3827571&title=Insurance+plan+of+the+city+of+Ottawa%2C+Canada%2C+and+adjoining+suburbs+and+lumber+districts%2C+January+1888%2C+revised+January+1901.+&ecopy=e010689183-v8&back_url=)**
 
 <br><br>
 It included 113 sheets on LAC's website
@@ -60,7 +60,7 @@ Source: https://pixabay.com/static/uploads/photo/2012/04/24/21/21/superhero-4090
 ---
 ## Solution
 
-- Georeference the FIP individual sheets (keymap not accurate)
+- Georeference the individual FIP sheets (keymap not accurate)
 - This will give us our index + the georeferenced plans
 <br><br>
 
@@ -132,4 +132,4 @@ Rebecca Bartlett - GIS and Digital Resources Librarian
 
 Joel Rivard - Cartographic Specialist
 
-[gis@carleton.ca](@gis@carleton.ca) / [@GIS_Carleton](https://twitter.com/GIS_Carleton)
+gis@carleton.ca / [@GIS_Carleton](https://twitter.com/GIS_Carleton)
