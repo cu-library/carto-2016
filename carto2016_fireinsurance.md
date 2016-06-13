@@ -1,7 +1,7 @@
 <div align="Center">
-## Making Library and Archives Canada (LAC) fire insurance plans (FIP) more easily accessible
+## Making Library and Archives Canada (LAC) fire insurance plans (FIPs) more easily accessible
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/cover.jpg "Cover")<br>
-by Rebecca Bartlett & Joel Rivard
+by Rebecca Bartlett & Joël Rivard
 
 Carleton University Library
 
@@ -9,7 +9,7 @@ Carleton University Library
 ##Outline
 
  - Introduction to the problem
- - Our amazing (yet, time-consuming) solution!!!
+ - Our amazing (yet time-consuming) solution!!!
  - Moving forward and discussion
 
 ---
@@ -31,11 +31,11 @@ Source: https://c2.staticflickr.com/4/3451/3986997574_5aa55585a4.jpg
 ---
 
 ## Introduction to the problem
-Finding FIP's through LAC's website is
+Finding FIPs through LAC's website is
 
   - Slow
-  - At times, inaccurate
-  - Time-consuming
+  - Inaccurate at times
+  - Time consuming
 ---
 
 ## Collection
@@ -56,7 +56,7 @@ Ryder to the rescue!!
 
 ![Ryder superhero](http://cu-library.github.io/carto-2016/images/superhero.jpg "Superhero")
 
-source: https://pixabay.com/static/uploads/photo/2012/04/24/21/21/superhero-40908_960_720.png
+Source: https://pixabay.com/static/uploads/photo/2012/04/24/21/21/superhero-40908_960_720.png
 ---
 ## Solution
 
@@ -64,7 +64,7 @@ source: https://pixabay.com/static/uploads/photo/2012/04/24/21/21/superhero-4090
 - This will give us our index + the georeferenced plans
 <br><br>
 
-Win Win Situation!!
+Win-Win Situation!!
 ---
 ## Methodology
 
@@ -90,24 +90,24 @@ These were clipped using Powerpoint and saved as .png. Graphics software we had 
 
 - In ArcMAp, used the georefencing toolbar to add roughly 8-12 ground control points.
 - Used multiple referencing layers:
-  - 1928 air photos from the city of ottawa
-  - Current Ottawa-Gatineau open data streetfile (downloaded from city of Ottawa and ville de Gatineau)
-- Georeferenced the FIP to MTM zone 9
+  - 1928 air photos from the City of Ottawa
+  - Current Ottawa-Gatineau open data street files (downloaded from [City of Ottawa](http://data.ottawa.ca/dataset/roads) and [Ville de Gatineau](http://www.gatineau.ca/donneesouvertes/fiche_metadonnees_en.aspx?id=872107914))
+- Georeferenced the FIP to MTM Zone 9
 ---
 ## Potential Issues
 
-- Source data used is at least 30 years more up-to-date than year of FIP
-- No data-frame or coordinate system used in FIP
+- Source data used to georeference is at least 30 years more up-to-date than year of FIPs
+- No data frame or coordinate system was used in FIPs
 
 ---
 ## Creating the Index
 - Once the fire insurance plans were georeferenced, we created the index in ArcMap:
-  1. Created a personal Geodatabase and created an empty mosaic dataset in it
-  2. Added the FIP rasters to the mosaic dataset (this built footprints, but not accurate)
-  3. Used the build footprints tool to make the index perfectly around each of the rasters
-  4. Exported the footprints layer from the mosaic dataset in the table of contents
+  1. Created a personal geodatabase and added an empty mosaic dataset
+  2. Added the FIP rasters to the mosaic dataset (this built footprints, but was not accurate)
+  3. Used the [Build Footprints tool](http://desktop.arcgis.com/en/arcmap/10.3/tools/data-management-toolbox/build-footprints.htm) to make the index polygons fit perfectly around each of the rasters
+  4. Exported the footprints layer from the mosaic dataset
 
-- For each polygon, added a link to that particular sheet on LAC's website
+- In the attribute table, added a URL link for each polygon to the corresponding sheet on LAC's website
 - Used ArcGIS Online to host the index
 ---
 ![Fire Insurance Plans overlap](http://cu-library.github.io/carto-2016/images/new_index.jpg "FIP Index online")
@@ -119,10 +119,11 @@ http://carleton-u.maps.arcgis.com/apps/PublicInformation/index.html?appid=46165b
 ![Fire Insurance Plans overlap zoom](http://cu-library.github.io/carto-2016/images/fip_overlapzoom.jpg "FIP Index in ArcGIS Pro zoom")
 
 ---
-## Next Step
-  - Allow users to download the georeferenced images (Copyright Issues)
-  - Tackle another year or another geographic area for FIP
-  - Create kml files
+## Next Steps?
+  - Allow users to download the georeferenced images
+    - ...but there are copyright issues
+  - Tackle another year or another geographic area
+  - Create KML (Google Earth)
 
 ---
 ## Questions
@@ -131,4 +132,4 @@ Rebecca Bartlett - GIS and Digital Resources Librarian
 
 Joel Rivard - Cartographic Specialist
 
-gis@carleton.ca
+[gis@carleton.ca](gis@carleton.ca)
