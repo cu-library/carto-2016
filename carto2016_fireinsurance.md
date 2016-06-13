@@ -1,7 +1,7 @@
 <div align="Center">
 ## Making Library and Archives Canada (LAC) fire insurance plans (FIPs) more easily accessible
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/cover.jpg "Cover")<br>
-by Rebecca Bartlett & Joël Rivard
+by Rebecca Bartlett & Joel Rivard
 
 Carleton University Library
 
@@ -14,7 +14,7 @@ Carleton University Library
 
 ---
 
-##Have you ever tried finding and/or using FIP from LAC?
+##Have you ever tried finding and/or using FIPs from the LAC website?
 
 ---
 ![Fire Insurance Plans](http://cu-library.github.io/carto-2016/images/lac_searchresults.jpg "Searching")
@@ -43,7 +43,7 @@ Finding FIPs through LAC's website is
 We choose the
 <br<br>
 
-**Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901**
+**[Insurance plan of the city of Ottawa, Canada, and adjoining suburbs and lumber districts, January 1888, revised January 1901](http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&lang=eng&rec_nbr=3816143&rec_nbr_list=2133082,2132980,3816143,3816060,3827541,3827543,3827534,3824226,3816030,3827571&title=Insurance+plan+of+the+city+of+Ottawa%2C+Canada%2C+and+adjoining+suburbs+and+lumber+districts%2C+January+1888%2C+revised+January+1901.+&ecopy=e010689183-v8&back_url=())**
 
 <br><br>
 It included 113 sheets on LAC's website
@@ -88,11 +88,11 @@ These were clipped using Powerpoint and saved as .png. Graphics software we had 
 ---
 ## Methodology
 
-- In ArcMAp, used the georefencing toolbar to add roughly 8-12 ground control points.
+- In ArcMap 10.3, used the georeferencing toolbar to add roughly 8-12 ground control points per FIP
 - Used multiple referencing layers:
   - 1928 air photos from the City of Ottawa
   - Current Ottawa-Gatineau open data street files (downloaded from [City of Ottawa](http://data.ottawa.ca/dataset/roads) and [Ville de Gatineau](http://www.gatineau.ca/donneesouvertes/fiche_metadonnees_en.aspx?id=872107914))
-- Georeferenced the FIP to MTM Zone 9
+- Georeferenced the FIPs to MTM Zone 9
 ---
 ## Potential Issues
 
@@ -132,4 +132,4 @@ Rebecca Bartlett - GIS and Digital Resources Librarian
 
 Joel Rivard - Cartographic Specialist
 
-[gis@carleton.ca](gis@carleton.ca)
+[gis@carleton.ca](@gis@carleton.ca) / [@GIS_Carleton](https://twitter.com/GIS_Carleton)
